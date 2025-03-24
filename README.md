@@ -33,3 +33,4 @@ To create a project for Sentimental Analysis on Any Dataset a Using Rapidminer
 ![image](https://github.com/user-attachments/assets/0bbe7add-3412-40d0-9b3a-5b2fc288debe)
 
 ### Result:
+Thus,successfully executed to create a project for Sentimental Analysis on Any Dataset a Using Rapidminer.
